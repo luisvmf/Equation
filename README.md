@@ -4,7 +4,7 @@ Algorithm in nodejs to solve nonlinear equation systems using Newton-Raphson num
 **IN TESTING.NEEDS SOME IMPROVEMENTS.***
 
 
-	Solve systems of non linear equations using Newton-Raphson numeric method.
+ Solve systems of non linear equations using Newton-Raphson numeric method.
 Complex numbers and these functions can be used.
 
 		acsch( )
@@ -37,7 +37,7 @@ Complex numbers and these functions can be used.
 		log10( ) 
 
 	All the lower case letters of the alphabet except "i" can be used as variables.
-"i" is equal to sqrt(-1).
+	"i" is equal to sqrt(-1).
 
 	Using a^b on one equation means that a is to the power b. 
 
