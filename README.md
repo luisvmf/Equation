@@ -43,7 +43,7 @@ Complex numbers and these functions can be used.
 	Using a^b on one equation means that a is to the power b. 
 
 **EXAMPLES::.**
-
+```bash
 
 		luisvmf@Bieka ~/Desktop/Equationgit/Equation $ node main.js --eq="(x-2)^2-5*x=0"
 
@@ -99,3 +99,4 @@ Complex numbers and these functions can be used.
 			}
 		}
 
+```
