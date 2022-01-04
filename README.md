@@ -5,7 +5,7 @@ Algorithm in nodejs to solve nonlinear equation systems using Newton-Raphson num
 
 **TESTED WITH NODEJS v4.4.2**
 
-	git clone https://github.com/luisvmf/Equation
+	git clone https://git.luisvmf.com/Equation
 
  Solve systems of non linear equations using Newton-Raphson numeric method.
 Complex numbers and these functions can be used.
